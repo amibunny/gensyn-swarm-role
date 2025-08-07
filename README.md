@@ -124,7 +124,7 @@ If you encounter any issues or need further help, feel free to reach out again. 
 Track Gensyn Peer ID, Score, Wins, and Transactions Using Telegram Bot
 Track Gensyn Updates via Telegram
 
-To keep track of your Peer ID, score, wins, and transactions in Gensyn, you can use the [gensynupdate_bot](https://gensynupdate_bot) on Telegram.
+To keep track of your Peer ID, score, wins, and transactions in Gensyn, you can use the [gensynupdate_bot](https://t.me/gensynupdate_bot) on Telegram.
 
 Or Search for the @gensynupdate_bot on Telegram
 
